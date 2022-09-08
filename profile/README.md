@@ -1,6 +1,6 @@
 # fpv.wtf
 
-The gang over at [fpv.wtf](https://fpv.wtf/) makes open-source software for our favorite HD FPV video transmission systems. Join the community on our [Discord](https://discord.com/invite/3rpnBBJKtU).
+The gang over at [fpv.wtf](https://fpv.wtf/) makes open-source software for our favorite HD FPV video transmission systems.
 
 Some standouts include:
 - [voc-poc](https://github.com/fpv-wtf/voc-poc) - live video out over USB for DJI Goggles
@@ -8,6 +8,8 @@ Some standouts include:
 - [wtfos](https://github.com/fpv-wtf/wtfos) - an open-source operating system overlay for the Linux OS on DJI devices
 - [wtfos-configurator](https://github.com/fpv-wtf/wtfos-configurator) - a browser based version of margerine, package manager for wtfos and more
 - [msp-osd](https://github.com/fpv-wtf/msp-osd) - MSP Displayport OSD support for DJI Goggles
+
+To get in touch, you can join the community over on our [Discord](https://discord.com/invite/3rpnBBJKtU).
 
 # Getting involved
 We appreciate any and all contributions, both large and small.
