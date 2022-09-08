@@ -21,4 +21,4 @@ If you want to get involved with wtfos development, check out our repositories, 
 # Donations
 If you'd like, you can make a donation on [buymeacoffe](https://www.buymeacoffee.com/fpv.wtf), send some ETH to `0xbAB1fec80922328F27De6E2F1CDBC2F322397637` or BTC to `3L7dE5EHtyd2b1tXBwdnWC2MADkV2VTbrq`.
 
-Donations are not quaranteed to be spent in any particular way, however the core deam endevours to always hack more things, do cool stuff and share useful software with the community as time allows for it. Bounties may be posted as is appropriate.
+Donations are not guaranteed to be spent in any particular way, however the core team endeavors to always hack more things, do cool stuff and share useful software with the community as time allows for it. Bounties may be posted as is appropriate.
