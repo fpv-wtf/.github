@@ -12,7 +12,7 @@ Some standouts include:
 To get in touch, you can join the community over on our [Discord](https://discord.com/invite/3rpnBBJKtU).
 
 # Getting involved
-We appreciate any and all contributions, both large and small.
+We appreciate any and all contributions, both large and small. See the [wtfos project board's](https://github.com/orgs/fpv-wtf/projects/3/views/2) ideas list for inspiration. Anything unassigned is up for grabs.
 
 The easiest way you can get involved is to develop your own software that runs in the Linux environment of wtfos, publish it with an open-source license, [package it up as a .ipk](https://github.com/stylesuxx/ipk-example) and submit it to the official [wtfos opkg package repository](https://github.com/fpv-wtf/opkg-repo). See the [wtfos README](https://github.com/fpv-wtf/wtfos) for more details and resources.
 
