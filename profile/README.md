@@ -9,7 +9,7 @@ Some standouts include:
 - [wtfos-configurator](https://github.com/fpv-wtf/wtfos-configurator) - a browser based version of margerine, package manager for wtfos and more
 - [msp-osd](https://github.com/fpv-wtf/msp-osd) - MSP Displayport OSD support for DJI Goggles
 
-To get in touch, you can join the community over on our [Discord](https://discord.com/invite/3rpnBBJKtU).
+To get in touch, you can join the community over on our [Discord](https://discord.com/invite/3rpnBBJKtU). If you wish, you can make a donation at [Open Collective](https://opencollective.com/fpv-wtf/donate?amount=10).
 
 # Getting involved
 We appreciate any and all contributions, both large and small. See the [wtfos project board's](https://github.com/orgs/fpv-wtf/projects/3/views/2) ideas list for inspiration. Anything unassigned is up for grabs.
@@ -19,6 +19,6 @@ The easiest way you can get involved is to develop your own software that runs i
 If you want to get involved with wtfos development, check out our repositories, their Issues and specific contribution guidelines, if any. In general, pull requests are always welcome. When in doubt, open an Issue or contact the team on Discord to discuss things.
 
 # Donations
-If you'd like, you can make a donation on [buymeacoffe](https://www.buymeacoffee.com/fpv.wtf), send some ETH to `0xbAB1fec80922328F27De6E2F1CDBC2F322397637` or BTC to `3L7dE5EHtyd2b1tXBwdnWC2MADkV2VTbrq`.
+If you'd like, you can make a donation on [Open Collective](https://opencollective.com/fpv-wtf/donate?amount=10), send some ETH to `0xbAB1fec80922328F27De6E2F1CDBC2F322397637` or BTC to `3L7dE5EHtyd2b1tXBwdnWC2MADkV2VTbrq`.
 
 Donations are not guaranteed to be spent in any particular way, however the core team endeavors to always hack more things, do cool stuff and share useful software with the community as time allows for it. Bounties may be posted as is appropriate.
